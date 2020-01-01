@@ -9,12 +9,12 @@
 
 Just type `valet` and you will see a list with all your projects.
 
-[https://github.com/thebugsoftware/alfred-laravel-valet/screenshots/screenshot-1.png]
+![Screenshot 1](https://raw.githubusercontent.com/thebugsoftware/alfred-laravel-valet/master/screenshots/screenshot-1.png)
 
 In the background, the command will call a Python script that will scan for Laravel Valet's defined paths.
 
 After the script finds the paths, it then scans the pats defined and will list all the directories/projects that it finds.
 
-[https://github.com/thebugsoftware/alfred-laravel-valet/screenshots/screenshot-2.png]
+![Screenshot 2](https://raw.githubusercontent.com/thebugsoftware/alfred-laravel-valet/master/screenshots/screenshot-2.png)
 
 You can then select one project from the list, and it will be opened in your default browser.
